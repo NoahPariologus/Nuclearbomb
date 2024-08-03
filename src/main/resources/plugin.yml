@@ -1,0 +1,8 @@
+name: Nuclearbomb
+version: '0.0.1'
+main: com.cna.nuclearbomb.Nuclearbomb
+api-version: '1.21'
+commands:
+  nuc:
+    description: 获取核弹控制器
+    usage: /nuc
